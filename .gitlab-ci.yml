@@ -7,6 +7,6 @@ pages:
   - ./mdbook build
   artifacts:
     paths:
-    - public
+    - public/html
   only:
   - master
