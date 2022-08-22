@@ -6,7 +6,7 @@ src = "src"
 title = "Argu Docs"
 
 [build]
-build_dir = "public"
+build-dir = "public"
 
 [output.html]
 
