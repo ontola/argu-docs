@@ -5,9 +5,6 @@ multilingual = false
 src = "src"
 title = "Argu Docs"
 
-[build]
-build-dir = "public"
-
 [output.html]
 
 [output.linkcheck]
