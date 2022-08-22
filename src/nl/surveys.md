@@ -4,7 +4,7 @@ Op Argu kan je enquêtes / vragenlijsten toevoegen. Dit is een onze verschillend
 
 ## Enquête aanmaken
 
-- Maak een [Typeform account aan](https://admin.typeform.com/signup) als je dat nog niet hebt of neem [contact met ons op](info@argu.co) om gebruik te maken van ons bestaande Premium account en de daarbij horende voordelen. Wij zetten dan een Workspace voor jouw site op en kunnen inhoudelijk helpen.
+- Maak een [Typeform account aan](https://admin.typeform.com/signup) als je dat nog niet hebt of neem [contact met ons op](mailto:info@argu.co) om gebruik te maken van ons bestaande Premium account en de daarbij horende voordelen. Wij zetten dan een Workspace voor jouw site op en kunnen inhoudelijk helpen.
 - Ga op Typeform naar de Workspace van je project en maak een TypeForm aan.
 - Als je klaar bent, klik dan op "publish" en kopieer de link die in je adresbalk staat. Deze heeft de vorm "https://&lt;naam&gt;.typeform.com/to/&lt;code&gt;".
 - Maak op Argu een Enquête aan door in een Forum (in een discussieoverzicht) op het plus icoontje rechtsboven te klikken, 'nieuwe enquête' te selecteren, het formulier in te vullen en daar de gekopieerde link van je TypeForm te plakken.

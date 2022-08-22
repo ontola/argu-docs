@@ -1,6 +1,6 @@
 # Voting on Ideas
 
-On Argu you can vote on [Ideas](https://argu.co/argu/t/10538). There are three default voting options:
+On Argu you can vote on [Ideas](challenges_and_ideas.md). There are three default voting options:
 
 - For
 - Neutral

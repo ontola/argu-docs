@@ -1,6 +1,6 @@
 # Dashboards and Widgets
 
-Dashboards are overview pages that contain Widgets. As administrator, you can control which widgets are placed here, what they look like and in what order they are arranged. An example of a Dashboard is the [Helpdesk page](/argu/help), which contains a search widget, a new-item widget and a collection widget.
+Dashboards are overview pages that contain Widgets. As administrator, you can control which widgets are placed here, what they look like and in what order they are arranged.
 
 ## Creating and editing widgets
 
@@ -8,7 +8,7 @@ Go to the dashboard settings, by clicking on the menu icon at the top right of t
 
 **Object**
 
-The Object of the widget is the URL of a particular thing you want to show. This can be anything. Often [Collections](https://argu.co/argu/t/11046) are useful here.
+The Object of the widget is the URL of a particular thing you want to show. This can be anything. Often [Collections](collections.md) are useful here.
 
 **View**
 

@@ -10,6 +10,7 @@
 - [Locations & Maps](locations.md)
 - [Projects](projects.md)
 - [Swipe Tool](swipe_tool.md)
+- [Surveys](surveys.md)
 
 # Advanced features
 
@@ -17,6 +18,7 @@
 - [Accessibility](accessibility.md)
 - [Adding Images](add_images.md)
 - [Analytics](analytics.md)
+- [Attachments](attachments.md)
 - [API](api.md)
 - [Banners](banners.md)
 - [Collections](collections.md)

@@ -1,10 +1,10 @@
 # Create and manage surveys
 
-On Argu you can add surveys / questionnaires. This is one of our different types of [participation tools](https://argu.co/argu/t/10578). We use the software of Typeform for this.
+On Argu you can add surveys / questionnaires. This is one of our different types of [participation tools](e-participation_tools.md). We use the software of Typeform for this.
 
 ## Create a survey
 
-- Create a [Typeform account](https://admin.typeform.com/signup) if you don't already have one, or [contact us](info@argu.co) to take advantage of our existing Premium account and its benefits. We will set up a Workspace for your site and can help with content.
+- Create a [Typeform account](https://admin.typeform.com/signup) if you don't already have one, or [contact us](mailto:info@argu.co) to take advantage of our existing Premium account and its benefits. We will set up a Workspace for your site and can help with content.
 - On Typeform, go to your project's Workspace and create a TypeForm.
 - When you're done, click "publish" and copy the link in your address bar. This has the form "https://&lt;name&gt;.typeform.com/to/&lt;code&gt;".
 - Create a Survey on Argu by clicking on the plus icon in the top right corner of a Forum (in a discussion thread), selecting 'new survey', filling out the form and pasting the copied link from your TypeForm there.
@@ -15,7 +15,7 @@ On Argu you can add surveys / questionnaires. This is one of our different types
 
 ## Feedback
 
-- You can keep all participants informed of the results by clicking on the menu icon and selecting "[new update](https://argu.co/argu/t/10537)".
+- You can keep all participants informed of the results by clicking on the menu icon and selecting "[new update](updates.md)".
 
 ## Privacy
 

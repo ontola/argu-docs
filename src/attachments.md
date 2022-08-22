@@ -1,6 +1,6 @@
 # Add attachments / files
 
-You can add an attachment to many [Items](https://argu.co/argu/t/10890). When creating or editing an item, click on "attachments" in the form. The maximum size of attachments is 10MB. If you want to upload something larger than that, we recommend you use a service such as Google Drive and share the link in your message.
+When creating or editing an item, click on "attachments" in the form. The maximum size of attachments is 10MB. If you want to upload something larger than that, we recommend you use a service such as Google Drive and share the link in your message.
 
 Attachments will appear at the bottom of your post.
 

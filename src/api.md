@@ -52,7 +52,7 @@ The API is publicly available. However, if you want to log in, write data or acc
 
 ## Data dumps / exports
 
-See the article [Data Exports](https://argu.co/argu/t/10808).
+See the article [Data Exports](export_data.md)
 
 ## Need help?
 

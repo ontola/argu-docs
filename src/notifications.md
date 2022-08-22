@@ -1,6 +1,6 @@
 # Tracking and Notifications
 
-You can "follow" almost any [item](https://argu.co/argu/t/10890) on Argu. When you do so, you will receive notifications of new posts.
+You can "follow" almost any item on Argu. When you do so, you will receive notifications of new posts.
 
 You can follow items at two levels:
 

@@ -6,7 +6,7 @@ Invitations can be made in several ways on Argu. Each item has a "share" menu in
 
 An invite is necessary if you want to allow people to participate in **hidden content**, or if you want to give people **special rights**. This option is only visible when you are logged in. If you click on Invite, a form will open in which you can enter a list of e-mail addresses. You can also write your own explanation. Next, you have to make these people members of a group, such as "administrators" or "residents". Finally, you see a "landing page" selected; this is the item you just tried to share.
 
-[Read more about Groups and Rights Management here](https://argu.co/argu/t/10536).
+[Read more about Groups and Rights Management here](groups.md).
 
 ## Social media
 

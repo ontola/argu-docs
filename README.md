@@ -4,7 +4,7 @@ This repository contains the help pages for [Argu](https://argu.co).
 
 ## Running locally
 
-- [Install `mdbook`](https://rust-lang.github.io/mdBook/guide/installation.html)
+- [Install `mdbook`](https://rust-lang.github.io/mdBook/guide/installation.html) and [`mdbook-linkcheck`](https://crates.io/crates/mdbook-linkcheck)
 - `mdbook serve`
 
 ## Publishing and CI

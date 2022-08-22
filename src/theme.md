@@ -10,9 +10,9 @@ You can change the theme of your website by going to Menu -&gt; Settings as an a
 - The colour of the navigation bar (white / primary / secondary)
 - Colour of titles (can follow the primary colour)
 
-## Government house style
+## NL Government house style
 
-If your organisation is a (sub)government organisation that uses the national house style, we have a detailed template for this. See for example [veiligheidsinterventies.nl](veiligheidsinterventies.nl/) (from RIVM). This is a setting we can apply on request.
+If your organisation is a Dutch (sub)government organisation that uses the national house style, we have a detailed template for this. This is a setting we can apply on request.
 
 ## Other changes
 

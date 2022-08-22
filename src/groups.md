@@ -13,11 +13,11 @@ You can add people to a group in two ways:
 1. Via an **email invitation**, with a unique link by mail. This is the most secure option, as it can only be used by those who actually have that email address.
 2. Via a **token-link**, this can be used several times and is therefore less secure. If you use a token link to invite administrators, we recommend that you quickly remove it and make it invalid.
 
-Read [more about how to invite works here](https://argu.co/argu/t/10528).
+Read [more about how to invite works here](share.md).
 
 ## Permissions
 
-With Permissions you can specify who is allowed to do what. Permissions are set on a Page, such as a [Forum](https://argu.co/argu/t/10580), and are associated with a Group. There are a few types of permissions:
+With Permissions you can specify who is allowed to do what. Permissions are set on a Page, such as a [Forum](forums.md), and are associated with a Group. There are a few types of permissions:
 
 1. **Read only**: only look, but don't post anything.
 2. **Participate**: are allowed to respond to items (such as posting comments, or an idea under a challenge)

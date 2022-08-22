@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Argu Docs"
+
+[output.html]
+
+[output.linkcheck]

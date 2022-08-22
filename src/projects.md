@@ -1,6 +1,6 @@
 # Projects and stages
 
-A Project is [one of the tools](https://argu.co/argu/t/10578) that you can use on Argu. A Project has a timeline, which consists of Phases. Each Phase can show a different thing. Projects are useful for engaging people over time. For example, in the first phase you can inform people about a certain project (with a Blogpost), in a second phase you can get ideas (with a Challenge), in a third phase you can discuss internally, then give feedback (send an Update) and then execute.
+A Project is [one of the tools](e-participation_tools.md) that you can use on Argu. A Project has a timeline, which consists of Phases. Each Phase can show a different thing. Projects are useful for engaging people over time. For example, in the first phase you can inform people about a certain project (with a Blogpost), in a second phase you can get ideas (with a Challenge), in a third phase you can discuss internally, then give feedback (send an Update) and then execute.
 
 ## Creating a new Project
 
