@@ -1,5 +1,5 @@
-# Locaties en kaarten
+# Locations and maps
 
-Aan veel [Items](https://argu.co/argu/t/10890) zijn Locaties te koppelen. Een locatie is een punt op de kaart. zie hieronder een voorbeeld.
+Locations can be linked to many [Items](https://argu.co/argu/t/10890). A location is a point on the map. see an example below.
 
-Bij [Uitdagingen](https://argu.co/argu/t/10538) is het mogelijk om "Locatie verplicht" aan te zetten, waardoor ieder onderliggend Idee een Locatie moet hebben.
+In [Challenges](https://argu.co/argu/t/10538) it is possible to turn on "Location mandatory", which means that every underlying Idea must have a Location.

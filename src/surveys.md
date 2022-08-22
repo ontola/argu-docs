@@ -1,24 +1,24 @@
-# Enquetes aanmaken en beheren
+# Create and manage surveys
 
-Op Argu kan je enquêtes / vragenlijsten toevoegen. Dit is een onze verschillende soorten [participatie tools](https://argu.co/argu/t/10578). We maken hiervoor gebruik van de software van Typeform.
+On Argu you can add surveys / questionnaires. This is one of our different types of [participation tools](https://argu.co/argu/t/10578). We use the software of Typeform for this.
 
-## Enquête aanmaken
+## Create a survey
 
-- Maak een [Typeform account aan](https://admin.typeform.com/signup) als je dat nog niet hebt of neem [contact met ons op](info@argu.co) om gebruik te maken van ons bestaande Premium account en de daarbij horende voordelen. Wij zetten dan een Workspace voor jouw site op en kunnen inhoudelijk helpen.
-- Ga op Typeform naar de Workspace van je project en maak een TypeForm aan.
-- Als je klaar bent, klik dan op "publish" en kopieer de link die in je adresbalk staat. Deze heeft de vorm "https://&lt;naam&gt;.typeform.com/to/&lt;code&gt;".
-- Maak op Argu een Enquête aan door in een Forum (in een discussieoverzicht) op het plus icoontje rechtsboven te klikken, 'nieuwe enquête' te selecteren, het formulier in te vullen en daar de gekopieerde link van je TypeForm te plakken.
+- Create a [Typeform account](https://admin.typeform.com/signup) if you don't already have one, or [contact us](info@argu.co) to take advantage of our existing Premium account and its benefits. We will set up a Workspace for your site and can help with content.
+- On Typeform, go to your project's Workspace and create a TypeForm.
+- When you're done, click "publish" and copy the link in your address bar. This has the form "https://&lt;name&gt;.typeform.com/to/&lt;code&gt;".
+- Create a Survey on Argu by clicking on the plus icon in the top right corner of a Forum (in a discussion thread), selecting 'new survey', filling out the form and pasting the copied link from your TypeForm there.
 
-## Enquête beheren
+## Manage survey
 
-- Als je vanuit Argu jouw Typeform enquête wil beheren, klik je op het menu icoon van je enquête en dan op 'beheer'. Je gaat vervolgens naar de website van Typeform, waar je jouw enquête kan bewerken en de resultaten kan inzien.
+- If you want to manage your Typeform survey from within Argu, click on the menu icon of your survey and then on 'manage'. This will take you to Typeform's website, where you can edit your survey and view the results.
 
-## Terugkoppelen
+## Feedback
 
-- Je kunt alle deelnemers op de hoogte houden van de uitkomsten door op het menu icoontje te klikken en "[nieuwe update](https://argu.co/argu/t/10537)" te selecteren.
+- You can keep all participants informed of the results by clicking on the menu icon and selecting "[new update](https://argu.co/argu/t/10537)".
 
 ## Privacy
 
-- De ingevulde enquêtes komen niet op de servers van Argu te staan, maar blijven op TypeForm.
-- TypeForm is gevestigd in Barcelona en moet zich daardoor houden aan AVG / GDPR wetgeving.
-- Gebruikers worden niet gekoppeld aan ingevulde enquêtes. De informatie van respondenten koppelen we dus niet aan de waarden die in een vragenlijst worden ingevuld. Het enige dat we opslaan, is dat een gebruiker een enquête heeft afgerond, zodat deze niet meer dan één keer dezelfde enquête kan invullen.
+- Completed surveys do not reside on Argu's servers, but remain on TypeForm.
+- TypeForm is based in Barcelona and must therefore comply with AVG / GDPR legislation.
+- Users are not linked to completed surveys. We therefore do not link respondents' information to the values entered in a questionnaire. The only thing we store is that a user has completed a survey, so that they cannot complete the same survey more than once.

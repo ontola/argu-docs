@@ -1,24 +1,24 @@
-# Beveiliging en privacy gebruiksgegevens
+# Security and privacy of user data
 
-Binnen Argu kunnen persoonsgegevens worden verwerkt. Wanneer gebruikers zich registreren, geven ze hun e-mailadres. Verder kunnen beheerders zelf bepaalde velden instellen waar persoonsgegevens in staan.
+Personal details may be processed within Argu. When users register, they provide their e-mail address. In addition, administrators can set up certain fields that contain personal data.
 
-In onze [Privacy policy](https://argu.co/argu/privacy) staat beschreven hoe wij om gaan met persoonsgegevens.
+Our [Privacy policy](https://argu.co/argu/privacy) describes how we deal with personal data.
 
-## Voeldoet Argu aan de AVG / GDPR?
+## Does Argu comply with the AVG / GDPR?
 
-Ja, we nemen privacy uiterst serieus en houden ons aan de Algemene Vordering Gegevensbescherming.
+Yes, we take privacy extremely seriously and adhere to the General Data Protection Regulation.
 
-## Is Argu verwerkingsverantwoordelijke?
+## Is Argu a data controller?
 
-Meestal wel, maar je kunt er als klant voor kiezen om zelf een privacy overeenkomst met de gebruikers van jouw Argu website aan te gaan. In dat geval zijn wij als Argu _verwerker_ in plaats van _verwerkingsverantwoordelijke_. We zullen in dat geval een _verwerkingsovereenkomst_ met jou opstellen.
+Usually yes, but as a customer you can choose to enter into your own privacy agreement with the users of your Argu website. In that case, we as Argu are _processor_ rather than _processing agent_. We will draw up a _processing agreement_ with you in that case.
 
-## Security & privacy maatregelen
+## Security & privacy measures
 
-- We gebruiken in externe verbindingen altijd [SSL versleutelde](https://www.ssllabs.com/ssltest/analyze.html?d=argu.co&latest) HTTPS verbindingen en we gebruiken DNSSEC om onze DNS records te versleutelen. We scoren door dergelijke maatregelen [100% op internet.nl](https://internet.nl/site/argu.co/803966/).
-- Alleen specifieke werknemers hebben database toegang. Toegang werkt via een versleutelde SSH verbinding, en is met een firewall van Cloud66 (de [CX tool](https://github.com/cloud66-oss/cx)) afgeschermd.
-- Alle accounts voor kritieke infrastructuur maken gebruik van two-factor authentication (2FA).
-- We draaien bij iedere deploy geautomatiseerde dependency vulnerability checks en static code analyse (rubocop, brakeman)
-- Waar we [bezoekersstatistieken](https://argu.co/argu/t/10532) verzamelen, doen we dat met de zelf-gehoste software Matomo, en daar verwijderen we altijd de laatst drie of zes nummers van IP adressen.
-- We gebruiken strenge CSP en CORS instellingen, zodat cross-site scripting attacks niet goed mogelijk zijn.
-- Werknemers mogen alleen gevoelige gegevens (zoals productie data van Argu) op hun laptop hebben in uitzonderlijke situaties, en mogen dit alleen versleuteld opslaan.
-- We hanteren een whitelist voor extensies voor bijlagen, zodat het lastiger is om malware te verspreiden.
+- We always use [SSL encrypted](https://www.ssllabs.com/ssltest/analyze.html?d=argu.co&latest) HTTPS connections in external connections and we use DNSSEC to encrypt our DNS records. We score [100% on internet.nl](https://internet.nl/site/argu.co/803966/) because of such measures.
+- Only specific employees have database access. Access is via an encrypted SSH connection, and is protected with a firewall from Cloud66 (the [CX tool](https://github.com/cloud66-oss/cx)).
+- All accounts for critical infrastructure use two-factor authentication (2FA).
+- We run automated dependency vulnerability checks and static code analysis (rubocop, brakeman) with every deploy.
+- Where we collect [visitor statistics](https://argu.co/argu/t/10532), we do so with the self-hosted software Matomo, and there we always remove the last three or six numbers of IP addresses.
+- We use strict CSP and CORS settings, so that cross-site scripting attacks are not possible.
+- Employees may only have sensitive data (such as Argu production data) on their laptops in exceptional situations, and may only store it in encrypted form.
+- We maintain a whitelist for attachment extensions, making it more difficult to spread malware.

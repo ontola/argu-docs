@@ -1,26 +1,26 @@
-# Uitnodigen en delen
+# Inviting and sharing
 
-Uitnodigen kan op Argu op verschillende manieren. Bij ieder item staat rechtsbovenin een "share" menu met enkele opties:
+Invitations can be made in several ways on Argu. Each item has a "share" menu in the top right-hand corner with a number of options:
 
-## Uitnodigen
+## Invite
 
-Uitnodigen is nodig als je mensen bij **verborgen content** wil laten meedoen, of als je mensen **speciale rechten** wil geven. Deze optie is alleen zichtbaar als je zelf bent ingelogd. Als je op Uitnodigen klikt, opent een formulier waarin je een lijst e-mailadressen kan opgeven. Ook kan je een eigen toelichting schrijven. Vervolgens moet je deze mensen lid maken van een groep, zoals "beheerders" of "inwoners". Tenslotte zie je een "landingspagina" geselecteerd staan; dit is het item dat je zojuist probeerde te delen.
+An invite is necessary if you want to allow people to participate in **hidden content**, or if you want to give people **special rights**. This option is only visible when you are logged in. If you click on Invite, a form will open in which you can enter a list of e-mail addresses. You can also write your own explanation. Next, you have to make these people members of a group, such as "administrators" or "residents". Finally, you see a "landing page" selected; this is the item you just tried to share.
 
-[Lees hier meer over Groepen en Rechtenbeheer](https://argu.co/argu/t/10536).
+[Read more about Groups and Rights Management here](https://argu.co/argu/t/10536).
 
 ## Social media
 
-Als het item publiek zichtbaar is, staat daar onder andere een lijst van Social Media opties - zoals Facebook, Twitter, Whatsapp en Linkedin. Deze openen speciale links die snel naar de juiste app of website gaan, waar je vervolgens het item kan delen.
+If the item is publicly visible, a list of social media options - such as Facebook, Twitter, Whatsapp and Linkedin - is displayed. These open special links that quickly go to the right app or website, where you can then share the item.
 
 ## E-Mail
 
-Dit opent jouw mail app met daarin de link naar het item wat je probeert te delen.
+This will open your mail app containing the link to the item you are trying to share.
 
-## Kopieer link
+## Copy link
 
-Dit kopieert de link van het item naar jouw klembord, waarna je het kan plakken.
-Je kunt [hier QR codes aanmaken](https://nl.qr-code-generator.com/) door de link te plakken.
+This copies the link of the item to your clipboard, where you can then paste it.
+You can [create QR codes here](https://nl.qr-code-generator.com/) by pasting the link.
 
-## Stemcodes
+## Voting codes
 
-Als je voor een item een groep mensen wil uitnodigen en stemrechten wil geven, neem dan [contact met ons op](mailto:info@argu.co) zodat we een lijst stemcodes kunnen genereren. In de nabije toekomst kan dit direct vanuit Argu.
+If you want to invite a group of people for an item and give them voting rights, please [contact us](mailto:info@argu.co) so we can generate a list of voting codes. In the near future this can be done directly from Argu.

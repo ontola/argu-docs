@@ -1,6 +1,6 @@
-# In welke browsers werkt Argu?
+# What browsers does Argu work in?
 
-We ondersteunen altijd de laatste versies van:
+We always support the latest versions of:
 
 - Google Chrome
 - Mozilla Firefox
@@ -8,4 +8,4 @@ We ondersteunen altijd de laatste versies van:
 - Microsoft Edge
 - Brave
 
-We doen ook ons best om binnen andere browsers te werken (zoals Internet Explorer 11), maar die ondersteunen we officieel niet. Het kan daarom voorkomen dat sommige functies dan niet goed werken. We geven in verouderde browsers altijd een waarschuwing weer, zodat het voor gebruikers helder is dat ze een moderne browser moeten installeren om de website goed te kunnen gebruiken.
+We also do our best to work within other browsers (such as Internet Explorer 11), but we do not officially support them. It is therefore possible that some functions will not work properly. We always display a warning in outdated browsers to make it clear to users that they need to install a modern browser to use the website properly.

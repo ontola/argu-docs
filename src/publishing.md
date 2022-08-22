@@ -1,5 +1,5 @@
-# Opslaan, publiceren en concepten
+# Saving, publishing and concepts
 
-Sommige items die je aanmaakt, worden eerst als Concept opgeslagen. Als iets een concept is, is het alleen zichtbaar voor beheerders en de maker (jij dus). Je kunt jouw concepten (je nog niet gepubliceerde items) terugvinden door naar jouw profiel te gaan (klik op avatar in de menubalk boven) en naar "Concepten" te gaan.
+Some of the items you create are first saved as Drafts. If something is a draft, it is only visible to administrators and the creator (you). You can find your drafts (your unpublished items) by going to your profile (click on avatar in the top menu bar) and going to "Drafts".
 
-Wanneer je klaar bent om te publiceren, klik je op "Publiceren" in de kaart onder jouw item. Op dat moment zullen er pas eventuele meldingen worden verstuurd naar mensen die het bovenliggende item volgen.
+When you're ready to publish, click "Publish" in the map below your item. At this point, notifications will be sent to people who are following the item above.

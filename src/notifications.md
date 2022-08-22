@@ -1,18 +1,18 @@
-# Volgen en Meldingen
+# Tracking and Notifications
 
-Je kunt op Argu bijna ieder [item](https://argu.co/argu/t/10890) "volgen". Wanneer je dit doet, zal je meldingen (of notificaties) ontvangen bij nieuwe berichten.
+You can "follow" almost any [item](https://argu.co/argu/t/10890) on Argu. When you do so, you will receive notifications of new posts.
 
-Je kunt items volgen op twee niveaus:
+You can follow items at two levels:
 
-- **Alle berichten**: Je ontvangt een melding bij alles wat er nieuw is. Iedere keer als je zelf een bericht plaatst, volg je je eigen bericht op dit niveau. Je krijgt dus standaard meldingen als iemand op jouw bericht reageert.
-- **Belangrijke berichten**: Je ontvangt alleen een melding als er een Update wordt geplaatst. Als je reageert of stemt op een item van iemand anders, volg je dat bovenliggende item op dit niveau. Dit is bijvoorbeeld handig als je meedoet aan een grote discussie waarbij je niet van alles een melding hoeft te ontvangen, maar wel wanneer er belangrijk nieuws wordt gedeeld.
+- **All posts**: You will be notified of all new posts. Every time you post a message, you follow your own message on this level. So by default you'll get notifications when someone replies to your post.
+- Important messages**: You will only receive a notification when an Update is posted. If you comment or vote on someone else's item, you follow the parent item on this level. This is useful, for example, if you are participating in a large discussion where you don't need to be notified of everything, but you do need to be notified when important news is shared.
 
-Het meeste hiervan gebeurt dus automatisch - je volgt items die je zelf maakt op een intenser niveau dan items waar je op reageert. Je kunt later altijd wijzigen op welk niveau je dingen volgt door te klikken op het bel icoontje rechts bovenin een item.
+Most of this happens automatically - you follow items you create yourself on a more intense level than items you respond to. You can always change the level of tracking later by clicking on the bell icon in the top right corner of an item.
 
-## Meldingen bekijken
+## Viewing notifications
 
-Als je ingelogd bent, verschijnt in het hoofdmenu een getal naast je profielafbeelding met hoeveel nieuwe meldingen je hebt. Door daar op te klikken, kan je ze bekijken. Je kunt meldingen als 'gelezen' bestempelen door ze te openen, of door op het kleine rode knopje te drukken.
+When you are logged in, a number will appear in the main menu next to your profile picture showing how many new notifications you have. By clicking on it, you can view them. You can mark notifications as 'read' by opening them, or by pressing the little red button.
 
-## E-mail meldingen
+## Email notifications
 
-Je kunt instellen wanneer je e-mails wilt ontvangen van je meldingen in bij gerbuikersinstellingen. Je kunt kiezen hoe vaak je ze ontvangt (nooit, direct, dagelijks, wekelijks).
+You can set when you want to receive emails from your notifications in user settings. You can choose how often you receive them (never, immediately, daily, weekly).

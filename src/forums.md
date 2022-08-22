@@ -1,7 +1,7 @@
 # Forums
 
-Een Forum is een (discussie)omgeving waar mensen items kunnen plaatsen. Deze Helpdesk is een voorbeeld van een Forum. Je kunt als beheerder [rechten instellen](https://argu.co/argu/t/10536) over wie items in een Forum mogen bekijken, mogen bewerken en mogen plaatsen.
+A Forum is a (discussion) environment where people can post items. This Helpdesk is an example of a Forum. As administrator, you can [set permissions](https://argu.co/argu/t/10536) on who can view, edit, and post items in a Forum.
 
-In een Forum kunnen verschillende soorten discussies staan. Lees hier meer over wat voor [tools](https://argu.co/argu/t/10578) er beschikbaar zijn.
+A Forum can contain different types of discussions. Read more about what kind of [tools](e-participation_tools.md) are available.
 
-De weergave van een forum is een [Dashboard](https://argu.co/argu/t/10948), waarbinnen [Widgets](https://argu.co/argu/t/10948) zitten. Deze zijn te wijzigen.
+The display of a forum is a [Dashboard](https://argu.co/argu/t/10948), which contains [Widgets](https://argu.co/argu/t/10948). These can be changed.

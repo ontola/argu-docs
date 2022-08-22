@@ -1,9 +1,9 @@
-# Argumenten
+# Arguments
 
-Waar denk je waar Argu haar naam aan te danken heeft? Juist.
+What do you think Argu got its name from? That's right.
 
-Onder een Idee kunnen voor- en tegenargumenten worden geplaatst. Deze verschijnen in losse kolommen (voor links, tegen rechts), zodat je snel kan zien wat de belangrijkste voor- en nadelen van een voorstel zijn.
+Under an idea, you can place arguments for and against it. These appear in separate columns (for left, against right), so that you can quickly see what the most important pros and cons of an idea are.
 
-Argumenten kunnen omhoog worden gestemd met de _upvote_ knop. De argumenten met de meeste upvotes staan bovenaan in het overzicht.
+Arguments can be voted up using the _upvote_ button. The arguments with the most upvotes are shown at the top of the overview.
 
-Standaard zie je bij een Argument niet staan wie hem geplaatst heeft - dit is om de focus te houden op de _inhoud_ van de discussie, en niet op wie hem plaatst. Als je het argument opent kan je alsnog zien wie deze heeft geplaatst.
+By default, an Argument is not listed by who posted it - this is to keep the focus on the _content_ of the discussion, and not on who posted it. If you open the argument, you can still see who posted it.

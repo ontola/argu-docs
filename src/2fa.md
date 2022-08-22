@@ -1,7 +1,7 @@
 # Two-Factor Authentication
 
-We ondersteunen de mogelijkheid voor Two-Factor Authentication (2FA). Dit houdt in dat je bij het inloggen naast een wachtwoord en mailadres, ook een bevestigingscode van je telefoon moet gebruiken. Dit is een extra beveiligingsmaatregel die vooral voor beheerders waardevol is om in te stellen.
+We support the possibility for Two-Factor Authentication (2FA). This means that when logging in, in addition to a password and e-mail address, you must also use a confirmation code from your telephone. This is an extra security measure that is particularly valuable for administrators to set up.
 
-Je kunt dit dan zelf aanzetten bij gebruikersinstellingen -&gt; authenticatie.
+You can turn it on in user settings -&gt; authentication.
 
-Als beheerder kan je per groep verplichten om 2FA te gebruiken. Doe dit in groepsinstellingen.
+As administrator you can require each group to use 2FA. Do this in group settings.

@@ -1,10 +1,10 @@
-# What are 'Items'?
+# What are "Items"?
 
-Een _Item_ is een ding wat iemand heeft gemaakt, zoals een Topic, een Reactie, een [Idee](https://argu.co/argu/t/10538) of een [Forum](https://argu.co/argu/t/10580). Items hebben een aantal eigenschappen die vaak terug komen:
+An _Item_ is a thing that someone has created, such as a Topic, a Comment, an [Idea](https://argu.co/argu/t/10538) or a [Forum](https://argu.co/argu/t/10580). Items have a number of properties that often recur:
 
-- Ze staan ergens een boom-hierarchie, dus Items staan ergens _onder_. Je kunt zien wat de bovenliggende items zijn in de _breadcrumbs_, dat zijn de kleine knopjes direct onder de navigatiebalk. Hier is bijvoorbeeld de _Helpdesk_ het bovenliggende item.
-- Je kunt Items [volgen](https://argu.co/argu/t/10803) en er meldingen van ontvangen. Door meldingen op "altijd" te zetten, ontvang je bericht bij ieder nieuw direct onderliggend Item.
-- Beheerders kunnen Items [exporteren](https://argu.co/argu/t/10808).
-- Je kunt Items doorheen [zoeken](https://argu.co/argu/t/10889).
-- Je kunt Items bewerken (als beheerder of eigenaar).
-- Daarnaast hebben de meeste Items de mogelijkheid om er [bijlagen](https://argu.co/argu/t/10793) of [locaties](https://argu.co/argu/t/10921) aan te koppelen.
+- They are somewhere in a tree hierarchy, so Items are somewhere _below_. You can see what the parent items are in the _breadcrumbs_, which are the little buttons right below the navigation bar. Here, for example, the _Helpdesk_ is the parent item.
+- You can [follow] items (https://argu.co/argu/t/10803) and receive notifications from them. By setting notifications to "always", you will receive notifications for every new, directly underlying Item.
+- Administrators can export Items (https://argu.co/argu/t/10808).
+- You can [search] through Items (https://argu.co/argu/t/10889).
+- You can edit Items (as administrator or owner).
+- In addition, most Items have the option of attaching [attachments](https://argu.co/argu/t/10793) or [locations](https://argu.co/argu/t/10921).

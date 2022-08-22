@@ -1,8 +1,3 @@
-# Summary
-
-- [Chapter 1](./chapter_1.md)
-
-
 # Features
 
 - [E-Participation tools](e-participation_tools.md)

@@ -1,13 +1,13 @@
-# Plaatjes in tekst toevoegen
+# Adding images to text
 
-Bij het aanmaken van een item, kan je eenvoudig een Coverfoto en [Bijlagen toevoegen](https://argu.co/argu/t/10793). Een Coverfoto verschijnt bovenaan de pagina, als een soort achtergrond, en de Bijlagen verschijnen als icoontjes onder het item dat je hebt aangemaakt.
+When creating an item, you can easily add a cover photo and [add attachments](https://argu.co/argu/t/10793). A cover photo appears at the top of the page, as a sort of background, and the attachments appear as icons under the item you have created.
 
-Als je een afbeelding wil toevoegen _in een tekst_, werkt het iets ingewikkelder:
+If you want to add an image _inside_ a text, things are a bit more complicated:
 
-1. Upload een afbeelding op het internet. Dit kan als bijlage zijn van je item, of op een andere website zoals [imgur](https://imgur.com/upload). Dit kan ook als [Bijlage in Argu](https://argu.co/argu/t/10793).
-2. Voeg in een tekst veld waar je het plaatje wil toevoegen de volgende tekst toe:`![omschrijving](https://example.com/linknaarjeplaatje)`
-3. Wijzig de URL naar jouw afbeelding, en verander de tekst in een omschrijving voor slechtzienden.
+1. Upload an image from the Internet. This can be as an attachment to your item, or from another website such as [imgur](https://imgur.com/upload). This can also be as an [attachment in Argu](https://argu.co/argu/t/10793).
+2. In a text field where you want to add the image, add the following text: `![description](https://example.com/linknaarjeplaatje)`.
+3. Change the URL to your image, and change the text to a description for the visually impaired.
 
-Bijvoorbeeld `![argu logo](https://argu-logos.s3.amazonaws.com/photos/827/box_Argu_Logo_2.0_matched_5_.jpg)` wordt:
+For example, `[argu logo](https://argu-logos.s3.amazonaws.com/photos/827/box_Argu_Logo_2.0_matched_5_.jpg)` will become:
 
 ![argu logo](https://argu-logos.s3.amazonaws.com/photos/827/box_Argu_Logo_2.0_matched_5_.jpg)

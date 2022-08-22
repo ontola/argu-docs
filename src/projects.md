@@ -1,17 +1,17 @@
-# Trajecten en fases
+# Projects and stages
 
-Een Traject is [een van de tools](https://argu.co/argu/t/10578) die je op Argu kan gebruiken. Een Traject heeft een tijdlijn, welke bestaat uit Fases. Iedere Fase kan een ander ding tonen. Trajecten zijn handig om mensen over langere tijd te betrekken. Zo kan je in de eerste fase mensen informeren over een bepaald project (met een Blogpost), in een tweede fase ideeën ophalen (met een Uitdaging), in een derde fase intern overleggen, daarna terugkoppelen (een Update versturen) en daarna uitvoeren.
+A Project is [one of the tools](https://argu.co/argu/t/10578) that you can use on Argu. A Project has a timeline, which consists of Phases. Each Phase can show a different thing. Projects are useful for engaging people over time. For example, in the first phase you can inform people about a certain project (with a Blogpost), in a second phase you can get ideas (with a Challenge), in a third phase you can discuss internally, then give feedback (send an Update) and then execute.
 
-## Nieuw traject aanmaken
+## Creating a new Project
 
-Een traject maak je aan door naar een forum te gaan, op het plus-icoontje te drukken bij discussies en 'nieuw traject' te selecteren.
+To create a Project, go to a forum, click on the plus icon under discussions and select 'new Project'.
 
-## Fases aanmaken
+## Creating phases
 
-Onder het traject zie je de fases staan als tabbladen. Druk op het plus icoontje om een nieuwe fase aan te maken.
+Below the track, you will see the stages as tabs. Press the plus icon to create a new phase.
 
-Standaard worden de Fases "Enquete", "Ideeen indienen" en "Terugkoppelen" aangemaakt. Deze kan je wijzigen door in het menu op "bewerken" te klikken.
+By default, the phases "Survey", "Submit ideas" and "Feedback" are created. You can change these by clicking on "edit" in the menu.
 
-## Fases afronden
+## Completing phases
 
-Wanneer je door wil naar een volgende fase, klik je op "afronden". Hierdoor wordt de volgende fase gestart, en wordt deze nieuwe fase als eerste getoond voor nieuwe bezoekers.
+If you want to proceed to the next phase, click on "complete". This will start the next phase, and this new phase will be shown first to new visitors.

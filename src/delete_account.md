@@ -1,5 +1,5 @@
-# Account verwijderen
+# Delete account
 
-Je kunt jouw account verwijderen door naar je privacy instellingen te gaan: klik op je profielfoto rechts bovenin het scherm, en ga naar 'instellingen', en dan 'privacy'. Daar kan je jouw account verwijderen.
+You can delete your account by going to your privacy settings: click on your profile picture at the top right of the screen, and go to 'settings', and then 'privacy'. There you can delete your account.
 
-Als je dit hebt gedaan, worden jouw profiel en je persoonsgegevens verwijderd van onze servers. De items (zoals je reacties) die je geplaatst hebt blijven nog wel op de website staan, maar niet meer onder jouw naam. Dit doen we om te voorkomen dat er gaten komen in discussies. Wil je toch graag dat jouw geplaatste reacties verdwijnen van de website? Laat het ons dan weten door te mailen naar support@argu.co.
+Once you have done this, your profile and personal data will be removed from our servers. The items (such as your comments) that you have posted will still be on the website, but no longer under your name. We do this to prevent gaps in discussions. Would you still like your posted reactions to disappear from the website? Please let us know by sending an e-mail to support@argu.co.

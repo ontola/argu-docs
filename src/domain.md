@@ -1,14 +1,14 @@
-# Argu op eigen domein hosten
+# Host Argu on your own domain
 
-Jouw Argu website is standaard beschikbaar op argu.co/websitenaam, maar kan ook vanaf een andere domeinnaam of subdomein beschikbaar worden gemaakt. Je moet daarvoor je DNS Records aanpassen in de beheeromgeving van je domeinnaam, en deze aan ons doorgeven. Welke DNS Records je moet aanpassen, hangt af van of je een subdomein wil of niet:
+Your Argu website is by default available at argu.co/websitename, but can also be made available from another domain or subdomain. To do this, you need to change your DNS Records in the management environment of your domain name, and pass them on to us. Which DNS Records you need to change, depends on whether you want a subdomain or not:
 
-## Op een subdomein (subdomein.example.com)
+## On a subdomain (subdomain.example.com)
 
-1. Voeg op het gekozen subdomein een DNS CNAME record toe met de waarde argu.co.
-1. Geef de URL en de naam van de Website op Argu aan ons door via info@argu.co.
+1. On the chosen subdomain, add a DNS CNAME record with the value argu.co.
+1. Provide us with the URL and name of the Website on Argu at info@argu.co.
 
-## Op een hoofddomein (example.com)
+## On a main domain (example.com)
 
-1. Voeg op het gekozen domein een A Record met waarde 188.166.203.193.
-1. Voeg een AAAA Record toe met waarde 2a03:b0c0:2:f0::229:d001
-1. Geef de URL en de naam van de Website op Argu aan ons door via info@argu.co.
+1. On the chosen domain, add an A Record with value 188.166.203.193.
+1. Add an AAAA Record with value 2a03:b0c0:2:f0::229:d001
+1. Provide us with the URL and name of the Website on Argu at info@argu.co.

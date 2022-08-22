@@ -1,9 +1,9 @@
-# Bijlagen / bestanden toevoegen
+# Add attachments / files
 
-Je kunt bij veel [Items](https://argu.co/argu/t/10890) een bijlage toevoegen. Druk in het formulier bij het maken of bewerken van een item op "bijlagen". De maximale grootte van bijlagen is 10MB. Als je iets groters dan dat wil uploaden, raden we je aan om een dienst zoals Google Drive te gebruiken en de link in je bericht te delen.
+You can add an attachment to many [Items](https://argu.co/argu/t/10890). When creating or editing an item, click on "attachments" in the form. The maximum size of attachments is 10MB. If you want to upload something larger than that, we recommend you use a service such as Google Drive and share the link in your message.
 
-Bijlagen komen onder aan je bericht te staan.
+Attachments will appear at the bottom of your post.
 
-## Youtube filmpjes
+## YouTube movies
 
-Het is ook mogelijk om, in plaats van een bestand, direct te linken naar een Youtube filmpje. Plak de link in het bijlage formulier in en sla je wijzigingen op.
+Instead of uploading a file, it is also possible to link directly to a YouTube video. Paste the link into the attachment form and save your changes.

@@ -1,27 +1,27 @@
-# Dashboards en Widgets
+# Dashboards and Widgets
 
-Dashboards zijn overzichtspagina's waar Widgets in staan. Als beheerder kan je instellen welke widgets hier staan, hoe deze er uit zien en in welke volgorde ze staan. Een voorbeeld van een Dashboard is de [Helpdesk pagina](/argu/help), waar je een zoek-widget, een nieuw-item widget en een collectie-widget ziet.
+Dashboards are overview pages that contain Widgets. As administrator, you can control which widgets are placed here, what they look like and in what order they are arranged. An example of a Dashboard is the [Helpdesk page](/argu/help), which contains a search widget, a new-item widget and a collection widget.
 
-## Widgets aanmaken en bewerken
+## Creating and editing widgets
 
-Ga naar de instellingen van het dashboard, door in het menu icoontje rechtsbovenin de dashboard te klikken. Selecteer daar 'Widgets'. Druk daar op de + knop om nieuwe aan te maken, of selecteer items in de tabel om deze te bewerken of te verwijderen.
+Go to the dashboard settings, by clicking on the menu icon at the top right of the dashboard. Select 'Widgets' there. Press the + button there to create new ones, or select items in the table to edit or delete.
 
 **Object**
 
-Het Object van de widget is de URL van een bepaald ding wat je wil tonen. Dit kan van alles zijn. Vaak zijn hierbij [Collecties](https://argu.co/argu/t/11046) nuttig.
+The Object of the widget is the URL of a particular thing you want to show. This can be anything. Often [Collections](https://argu.co/argu/t/11046) are useful here.
 
-**Weergave**
+**View**
 
-Veel widgets hebben drie mogelijke weergaven:
+Many widgets have three possible views:
 
-- Preview: een erg kleine weergave waar meestal alleen de titel te zien is.
-- Compact: een compacte weergave waar de titel en een uitklapbare tekst te zien is
-- Volledig: Het volledige object, alsof je hem op zijn eigen pagina bekijkt.
+- Preview: a very small view where usually only the title is shown.
+- Compact: A compact view where the title and a drop-down text are visible.
+- Full size: The full object, as if you were viewing it on its own page.
 
-**Breedte**
+**Width**
 
-De breedte is 1, 2 of 3. Op een rij passen drie widgets.
+The width is 1, 2 or 3. Three widgets fit on a row.
 
-**Positie**
+**Position**
 
-De positie bepaalt in welke volgorde de widgets worden getoond.
+The position determines the order in which the widgets are displayed.

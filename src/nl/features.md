@@ -1,0 +1,23 @@
+# Overzicht functionaliteiten Argu
+
+-   [**Stemmen**](https://argu.co/argu/t/10887) en [**argumenten**](https://argu.co/argu/t/10888): Gebruikers kunnen stemmen en eenvoudig hun mening delen. Met losse voor- en tegenargumenten blijven discussies overzichtelijk.
+-   [**Groepen- en Rechtenbeheer**](https://argu.co/argu/t/10536): Bepaal per item of per forum wie wat mag bekijken, of mag reageren.
+-   [**Trajecten en fases**](https://argu.co/argu/t/10511): Maak een planning en zet per fase een passende vorm van participatie uit. Communiceer de tijdlijn met jouw doelgroep.
+-   [**Uitdagingen en Ideeën**](https://argu.co/argu/t/10538): Stel een vraag, en verzamel ideeën.
+-   [**Enquêtes**](https://argu.co/argu/t/10509): Stel vragenlijsten op en analyseer de resultaten.
+-   [**Volgen en meldingen**](https://argu.co/argu/t/10803): Volg items en ontvang emails wanneer bij nieuwe berichten.
+-   [**Updates**](https://argu.co/argu/t/10537): Koppel eenvoudig terug aan alle deelnemers.
+-   [**Locaties & kaarten**](https://argu.co/argu/t/10921): Laat gebruikers items op de kaart prikken.
+-   [**Huisstijl**](https://argu.co/argu/t/10884): Pas de opmaak aan van jouw website om bij jouw huisstijl aan te sluiten.
+-   [**Toegankelijkheid**](https://argu.co/argu/t/10484): Argu voldoet aan de strenge WCAG 2.1 AA richtlijn.
+-   [**Zoeken**](https://argu.co/argu/t/10889): De zoekfunctionaliteit kan door alle items zoeken en filteren.
+-   [**Exporteren**](https://argu.co/argu/t/10808): Losse discussies of gehele websites kunnen worden geëxporteerd op diverse manieren.
+-   [**Publiceren en concepten**](https://argu.co/argu/t/10579): Je kunt items als concept bewerken en automatisch zichbaar maken wanneer jij dat wil.
+-   [**Hergebruik**](https://argu.co/argu/t/10518): Onze Linked Data API staat uitgebreide vormen van hergebruik toe.
+-   [**Banners**](https://argu.co/argu/t/10827): Laat alle gebruikers een belangrijk bericht zien.
+-   [**Navigatie**](https://argu.co/argu/t/10886): Alle items in de navigatiebalk & footer kunnen worden gewijzigd.
+-   [**Bijlagen en filmpjes**](https://argu.co/argu/t/10793): Je kunt bestanden en externe (youtube) video's koppelen aan items.
+-   [**Bezoekersstatistieken**](https://argu.co/argu/t/10532): Argu gebruikt het privacy-vriendelijke Matomo om statistieken te verzamelen van gebruikers.
+-   [**Beveiliging en Privacy**](https://argu.co/argu/t/10673): We voldoen aan de AVG en hebben strikte beveiliging en privacy eisen.
+-   [**Redirects**](https://argu.co/argu/t/10885): Maak handige, leesbare URLs aan om het delen makkelijker te maken.
+-   [**Two-factor Authentication**](https://argu.co/argu/t/10962): 2FA voor extra goede beveiliging.

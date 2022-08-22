@@ -1,16 +1,16 @@
-# Neem contact op met Argu
+# Contact Argu
 
 ## Voice + chat
 
-- Praat en chat met ons team via [ons openbare Discord kanaal](https://discord.gg/zMxyYNN)!
+- Talk and chat with our team on [our public Discord channel](https://discord.gg/zMxyYNN)!
 
-## Per mail
+## By email
 
 - [info@](mailto:michiel@argu.co)[argu](http://mailto:info@argu.co)[.co](mailto:michiel@argu.co)
 
-## Telefonisch
+## By phone
 
-- Bel [0636020942](tel:0031636020942)
+- Call [0636020942](tel:0031636020942)
 
 ## Social Media
 

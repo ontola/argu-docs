@@ -1,11 +1,11 @@
-# Verbergen en permanent verwijderen
+# Hide and permanently delete
 
-Als beheerder kan je items van anderen verwijderen. Dit kan op twee manieren:
+As an administrator, you can delete items belonging to others. There are two ways to do this:
 
-## Verbergen
+## Hide
 
-Bij 'verbergen' wordt een item niet meer getoond in overzichten, maar blijft het nog wel opvraagbaar. Dit raden we meestal aan, aangezien dit een heel transparante en milde vorm van censureren is. Je kunt bij het verbergen een reden opgeven, welke zichtbaar is voor de plaatser en iedereen die het verborgen item later bekijkt. Gebruik verbergen dus **in de meeste gevallen**, bijvoorbeeld als een reactie **off-topic** of **ongepast** is.
+Hiding' means that an item will no longer be shown in overviews, but it can still be retrieved. We usually recommend this, as it is a very transparent and mild form of censorship. You can give a reason for hiding an item, which is visible to the poster and anyone viewing the hidden item later. So use Hide in most cases**, for example if a comment is **off-topic** or **inappropriate**.
 
-## Permanent verwijderen
+## Permanently delete
 
-Met 'permanent verwijderen' wordt de informatie van de servers gewist. Dit is ingrijpender en kan eerder als censuur worden gezien. Gebruik dit bij voorkeur alleen als een reactie **privacy gevoelige informatie** bevat, **ongewenste reclame** is of **tegen de wet** gaat.
+Permanent Deletion erases the information from the servers. This is more invasive and can be seen as censorship. Please use this only if a comment contains **privacy sensitive information**, is **unwanted advertising** or **against the law**.

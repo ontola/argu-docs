@@ -1,9 +1,9 @@
-Op Argu kan er worden gestemd op [Ideeën](https://argu.co/argu/t/10538). Er zijn drie stem opties:
+On Argu you can vote on [Ideas](https://argu.co/argu/t/10538). There are three voting options:
 
-- Voor
-- Neutraal
-- Tegen
+- For
+- Neutral
+- Against
 
-Iedereen kan één keer stemmen. Een stem wordt alleen maar geteld als het e-mailadres is bevestigd.
+Everyone can vote once. A vote is only counted if the e-mail address has been confirmed.
 
-Als gebruiker kan je bepalen of je stemmen zichtbaar zijn voor anderen of niet bij je privacy instellingen.
+As a user you can determine whether your votes are visible to others or not in your privacy settings.

@@ -1,3 +1,3 @@
-We zijn afgestapt van Google Analytics om de privacy van bezoekers te beschermen. We gebruiken daarom een zelf-gehost alternatief genaamd  [Matomo](https://matomo.org/).
+We have moved away from Google Analytics to protect the privacy of visitors. We therefore use a self-hosted alternative called [Matomo](https://matomo.org/).
 
-Je kunt als klant bezoekersstatistieken beheren in een zelf gehoste Matomo of PiwikPro instantie, maar je kunt er ook voor kiezen om de Matomo instantie van Argu te gebruiken.
+As a customer you can manage visitor statistics in a self-hosted Matomo or PiwikPro instance, but you can also choose to use Argu's Matomo instance.

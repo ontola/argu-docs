@@ -1,26 +1,26 @@
-# Groepen- en rechtenbeheer
+# Group and rights management
 
-Binnen jouw Website op Argu kan je instellen wie wat mag bekijken of bewerken. Dit werkt via Groepen en Rechten.
+Within your Website on Argu, you can configure who is allowed to view or edit what. This works via Groups and Permissions.
 
-## Groepen
+## Groups
 
-Een Groep is een verzameling van Gebruikers in een Website. Je kunt groepen bewerken bij Menu =&gt;  Instellingen =&gt; Groepen.
+A Group is a collection of Users in a Website. You can edit groups at Menu =&gt; Settings =&gt; Groups.
 
-## Uitnodigen voor een groep
+## Invite to a group
 
-Je kunt op twee manieren mensen toevoegen aan een groep:
+You can add people to a group in two ways:
 
-1. Via een **e-mail uitnodiging**, met een unieke link per mail. Dit is de meest veilige optie, want hij kan alleen gebruikt worden door degene die ook echt dat e-mailadres heeft.
-2. Via een **token-link**, deze kan meermaals gebruikt worden en is daarmee iets minder veilig. Als je een token-link gebruikt om beheerders mee uit te nodigen, raden we aan om deze snel weer te verwijderen en ongeldig te maken.
+1. Via an **email invitation**, with a unique link by mail. This is the most secure option, as it can only be used by those who actually have that email address.
+2. Via a **token-link**, this can be used several times and is therefore less secure. If you use a token link to invite administrators, we recommend that you quickly remove it and make it invalid.
 
-Lees [hier meer over hoe uitnodigen werkt](https://argu.co/argu/t/10528).
+Read [more about how to invite works here](https://argu.co/argu/t/10528).
 
-## Rechten
+## Permissions
 
-Met Rechten kan je aangeven wie wat mogen doen. Rechten stel je in op een Pagina, zoals een [Forum](https://argu.co/argu/t/10580), en koppel je aan een Groep. Er zijn een paar type rechten:
+With Permissions you can specify who is allowed to do what. Permissions are set on a Page, such as a [Forum](https://argu.co/argu/t/10580), and are associated with a Group. There are a few types of permissions:
 
-1. **Alleen lezen**: alleen kijken, maar niets plaatsen.
-2. **Meedoen**: mogen reageren op items (zoals reacties plaatsen, of een idee onder een uitdaging)
-3. **Initiëren**: zelf nieuwe discussies starten
-4. **Modereren**: reacties van anderen bewerken en verwijderen
-5. **Beheren**: alles mag, inclusief organisatie instellingen en het beheren van gebruikersgroepen
+1. **Read only**: only look, but don't post anything.
+2. **Participate**: are allowed to respond to items (such as posting comments, or an idea under a challenge)
+3. **Initiate**: start new discussions yourself
+4. **Moderate**: edit and delete responses from others
+5. **Maintain**: everything is allowed, including organisation settings and managing user groups

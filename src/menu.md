@@ -1,5 +1,5 @@
-# Menu bewerken
+# Edit menu
 
-Alle items in de navigatiebalk, het menu en de footer beneden kunnen worden gewijzigd.
+All items in the navigation bar, the menu and the footer below can be edited.
 
-De interface hiervoor komt binnenkort beschikbaar, maar tot die tijd kan je ons je wensen doorsturen en zullen wij het voor je instellen.
+The interface for this will be available soon, but until then you can send us your wishes and we will set it up for you.

@@ -1,19 +1,19 @@
-# Huisstijl / thema wijzigen
+# Change house style / theme
 
-Argu bevat tooling om de look & feel van het platform flink aan te passen.
+Argu includes tooling to greatly customise the look and feel of the platform.
 
-## Basis thema instellingen
+## Basic theme settings
 
-Je kunt het thema van jouw website aanpassen door als beheerder naar Menu -&gt; Instellingen te gaan. Je vind daar onderin diverse instellingen:
+You can change the theme of your website by going to Menu -&gt; Settings as an administrator. You will find various settings at the bottom:
 
-- De primaire en secundaire kleuren. Deze worden gebruikt op verschillende plekken in de interface
-- De kleur van de navigatiebalk (wit / primair / secundair)
-- Kleur van titels (kunnen de primaire kleur volgen)
+- The primary and secondary colours. These are used at various places in the interface
+- The colour of the navigation bar (white / primary / secondary)
+- Colour of titles (can follow the primary colour)
 
-## Rijkshuisstijl
+## Government house style
 
-Als jouw organisatie een (deel)overheid is die de Rijkshuisstijl gebruikt, hebben we daar een uitgewerkte template voor. Zie als voorbeeld [veiligheidsinterventies.nl](veiligheidsinterventies.nl/) (van RIVM). Dit is een instelling die we op verzoek kunnen toepassen.
+If your organisation is a (sub)government organisation that uses the national house style, we have a detailed template for this. See for example [veiligheidsinterventies.nl](veiligheidsinterventies.nl/) (from RIVM). This is a setting we can apply on request.
 
-## Andere wijzigingen
+## Other changes
 
-Als je complexere dingen wilt wijzigen (lettertype, vorm, overig), neem dan [contact met ons op](https://argu.co/argu/edges/contact).
+If you want to change more complex things (font, form, other), please [contact us](https://argu.co/argu/edges/contact).

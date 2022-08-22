@@ -1,25 +1,25 @@
-# E-Participatie tools - wanneer gebruik je welke?
+# E-Participation tools - when to use which one?
 
-Participatie is vaak maatwerk. Afhankelijk van je doelgroep, het thema, de plaats en je eigen doelen, kan een bepaalde vorm van e-participatie het meest geschikt zijn. Onze software is ontworpen om met een zeer breed palet van participatiebehoeften overweg te gaan. Of je nu een korte enquête, een diepgaande discussie, een gesloten update of een vraag-antwoord structuur wil: met Argu is het mogelijk.
+Participation is often customised. Depending on your target group, the theme, the place and your own goals, a particular form of e-participation may be most appropriate. Our software is designed to handle a very wide range of participation needs. Whether you want a short survey, an in-depth discussion, a closed update or a question-answer structure: with Argu it is possible.
 
-Als je een [Forum](https://argu.co/argu/t/10580) hebt aangemaakt, kun je een van de onderstaande tools uitkiezen in het “+” menu, rechts bij "discussies" in het Forum.
+If you have created a [Forum](https://argu.co/argu/t/10580), you can choose one of the tools below in the "+" menu, to the right of "discussions" in the Forum.
 
-## **Topics**
+## Topics
 
-Een Topic is de meest simpele tool: een **bericht met reacties**. Je kent het waarschijnlijk al van online forums. Gebruik dit alleen om te **informeren**, wanneer de overige tools niet goed passen, of als je nog niet precies weet wat voor soort input je wilt.
+A Topic is the simplest tool: a **message with reactions**. You probably already know it from online forums. Use this only to **inform**, when the other tools don't fit well, or when you don't yet know exactly what kind of input you want.
 
-## Ideeën
+## Ideas
 
-Een [Idee](https://argu.co/argu/t/10538) is een **voorstel** waarop kan worden gestemd. Ook kunnen er argumenten voor of tegen onder worden geplaatst - hier komt de naam Argu ook vandaan. Plaats een Idee als je iets concreets wil voorstellen, draagvlak wil meten of een ja / nee vraag wil laten beantwoorden door een groep.
+An [Idea](https://argu.co/argu/t/10538) is a **proposal** that can be voted on. Arguments for or against it can also be placed underneath - this is where the name Argu comes from. Post an Idea if you want to propose something concrete, measure support or have a yes/no question answered by a group.
 
-## **Uitdagingen**
+## **Challenges**
 
-Een [Uitdaging](https://argu.co/argu/t/10538) is een **vraagstuk** of een probleem waarmee mensen worden geprikkeld om mee te denken, zodat ze **ideeën kunnen indienen**. Een Uitdaging geeft mensen ook de kans om aan te geven waarom ze bepaalde opties wel of niet steunen. Gebruik een Uitdaging als je de creativiteit van je doelgroep zou willen benutten, of als je meerdere opties wil voorleggen.
+A [Challenge](https://argu.co/argu/t/10538) is a **question** or a problem that encourages people to think about it, so they can submit **ideas**. A Challenge also gives people a chance to say why they support or do not support certain options. Use a Challenge if you would like to harness the creativity of your target audience, or if you want to present multiple options.
 
-## Enquêtes
+## Surveys
 
-De [Enquête](https://argu.co/argu/t/10509) is een **vragenlijst** die doorgaans anoniem wordt ingevuld. Gebruik dit als je anonieme, kwantificeerbare gegevens wil ophalen, en liever niet interactie / discussie wil hebben.
+The [Survey](https://argu.co/argu/t/10509) is a **questionnaire** that is usually completed anonymously. Use this if you want to collect anonymous, quantifiable data, and prefer not to interact/discuss.
 
-## Trajecten
+## Trajectories
 
-Een [Traject](https://argu.co/argu/t/10511) heeft een **tijdlijn met fases**, en is vooral handig als je over langere tijd een groep mensen wil betrekken op verschillende manieren. Je kunt per fase een aparte tool gebruiken - bijvoorbeeld een enquête bij de eerste, en een uitdaging bij de tweede en een update op de laatste.
+A [Pathway](https://argu.co/argu/t/10511) has a **timeline with phases**, and is especially useful if you want to engage a group of people in different ways over a long period of time. You can use a separate tool for each phase - for example, a survey for the first, a challenge for the second, and an update for the last.
