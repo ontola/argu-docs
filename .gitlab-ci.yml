@@ -3,7 +3,7 @@ pages:
   stage: deploy
   script:
   - apk add --update curl && rm -rf /var/cache/apk/*
-  - curl -o mdbook.tar.gz https://github.com/rust-lang/mdBook/releases/download/v0.4.21/mdbook-v0.4.21-x86_64-unknown-linux-gnu.tar.gz
+  - curl -o mdbook.tar.gz https://github.com/rust-lang/mdBook/releases/download/v0.4.18/mdbook-v0.4.18-x86_64-unknown-linux-gnu.tar.gz
   - tar xvzf mdbook.tar.gz
   - ./mdbook build
   artifacts:
