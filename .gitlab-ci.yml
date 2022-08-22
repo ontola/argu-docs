@@ -2,7 +2,7 @@ pages:
   image: docker:latest
   stage: deploy
   script:
-  - apk add --update curl && rm -rf /var/cache/apk/*
+  - apk add --update curl libgcc1 && rm -rf /var/cache/apk/*
   - curl -sSL https://github.com/rust-lang/mdBook/releases/download/v0.4.21/mdbook-v0.4.21-x86_64-unknown-linux-gnu.tar.gz | tar -xz
   - ./mdbook build
   artifacts:
