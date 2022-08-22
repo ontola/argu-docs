@@ -8,3 +8,4 @@ title = "Argu Docs"
 [output.html]
 
 [output.linkcheck]
+optional=true
