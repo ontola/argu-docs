@@ -6,6 +6,10 @@ src = "src"
 title = "Argu Docs"
 
 [output.html]
+git-repository-url = "https://gitlab.com/ontola/argu-docs"
+git-repository-icon = "fa-gitlab"
+site-url = "/argu-docs/"
+edit-url-template="https://gitlab.com/ontola/argu-docs/-/edit/master/src/{path}"
 
 [output.linkcheck]
 optional=true
