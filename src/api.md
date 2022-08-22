@@ -1,3 +1,5 @@
+# API
+
 All the information you see on Argu is communicated through the API. You can also reuse this API in other applications.
 
 ## Principles

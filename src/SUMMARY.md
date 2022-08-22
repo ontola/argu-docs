@@ -1,3 +1,5 @@
+- [About](about.md)
+
 # Features
 
 - [E-Participation tools](e-participation_tools.md)
@@ -6,8 +8,8 @@
 - [Challenges & Ideas](challenges_and_ideas.md)
 - [Forums](forums.md)
 - [Locations & Maps](locations.md)
-- [Items](items.md)
 - [Projects](projects.md)
+- [Swipe Tool](swipe_tool.md)
 
 # Advanced features
 
@@ -22,7 +24,6 @@
 - [Delete & Trash](delete_and_trash.md)
 - [Custom Domain](domain.md)
 - [Export Data](export_data.md)
-- [Feature overview](features.md)
 - [Groups](groups.md)
 - [Menu](menu.md)
 - [Notifications](notifications.md)
