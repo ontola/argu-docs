@@ -54,6 +54,6 @@ The API is publicly available. However, if you want to log in, write data or acc
 
 See the article [Data Exports](export_data.md)
 
-## Need help?
+## Need help with the API?
 
-Ask your question below, or email directly to [joep@argu.co](mailto:joep@argu.co).
+Create an issue in the [GitLab issue tracker](https://gitlab.com/ontola/argu/-/issues)!
