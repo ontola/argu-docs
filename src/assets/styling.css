@@ -1,0 +1,12 @@
+body {
+  /* background: red; */
+}
+
+.menu-title {
+  background-image: url('/assets/argu-logo.svg');
+  background-image: url('/assets/argu-logo.svg');
+  color: transparent;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}

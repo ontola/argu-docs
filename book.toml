@@ -9,7 +9,11 @@ title = "Argu Docs"
 git-repository-url = "https://gitlab.com/ontola/argu-docs"
 git-repository-icon = "fa-gitlab"
 site-url = "/argu-docs/"
-edit-url-template="https://gitlab.com/ontola/argu-docs/-/edit/master/src/{path}"
+edit-url-template="https://gitlab.com/ontola/argu-docs/-/edit/master/{path}"
+additional-css = ["src/assets/styling.css"]
+
+[output.html.fold]
+enable = true
 
 [output.linkcheck]
 optional=true
