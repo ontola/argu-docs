@@ -3,14 +3,16 @@
 # Features
 
 - [E-Participation tools](e-participation_tools.md)
-- [Arguments (pros and cons)](arguments.md)
-- [Budgets](budgets.md)
-- [Challenges & Ideas](challenges_and_ideas.md)
+- [Communities](communities.md)
 - [Forums](forums.md)
+- [Challenges & Ideas](challenges_and_ideas.md)
+- [Arguments (pros and cons)](arguments.md)
+- [Voting](voting.md)
 - [Locations & Maps](locations.md)
-- [Projects](projects.md)
 - [Swipe Tool](swipe_tool.md)
 - [Surveys](surveys.md)
+- [Projects](projects.md)
+- [Budgets](budgets.md)
 
 # Advanced features
 
@@ -32,11 +34,10 @@
 - [Publishing](publishing.md)
 - [Redirects](redirects.md)
 - [Search](search.md)
-- [Security & Privacy](search.md)
+- [Security & Privacy](security_and_privacy.md)
 - [Sharing & Invites](share.md)
 - [Theming & Styling](theme.md)
 - [Updates](updates.md)
-- [Voting](voting.md)
 
 # Help
 
