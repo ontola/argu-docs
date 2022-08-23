@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/argu-logo.svg" />
+  <img src="assets/argu-logo.svg" />
 </p>
 
 Argu is an open source e-democracy and community management platform.
@@ -15,7 +15,4 @@ Use it to:
 
 ## Getting started
 
-If you want to set up your own Argu website, you can use Argu.co or host it yourself.
-
-Hosting it yourself involves setting up a server, running some commands and possibly fixing some bugs.
-[See the readme for self-hosting instructions.](https://gitlab.com/ontola/argu/)
+If you want to set up your own Argu website, you can use one of the [paid plans on Argu.co](https://argu.co/info/prijzen) or [host it yourself for free](https://gitlab.com/ontola/argu/).

@@ -1,4 +1,4 @@
-- [About](about.md)
+- [About Argu.co](about.md)
 
 # Features
 
