@@ -13,16 +13,19 @@ Alle informatie die je ziet op Argu, wordt middels de API gecommuniceerd. Deze A
 
 De API werkt over HTTP. Dat kan middels [curl](https://curl.haxx.se/) of [ldget](https://github.com/ontola/ldget/) in je terminal, of [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) als je Javascript gebruikt. Zoek naar ["HTTP &lt;programmeertaal&gt; library"](https://www.google.com/search?q=http+python+library) om software te vinden die je op weg helpt.
 
-Vervolgens kan je entiteiten binnenhalen in het format dat jij wil met [HTTP content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation). Zet in de HTTP Accept header het content-type (zoals 'text/turtle'):
+Vervolgens kan je entiteiten binnenhalen in het format dat jij wil met [HTTP content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation). Zet in de HTTP Accept header het content-type (zoals 'application/empathy+json'):
 
 ```HTTP
-GET https://argu.co/argu/u/joep HTTP/1.1
-Accept: text/turtle
+GET https://argu.co/argu/argu/help HTTP/1.1
+Accept: application/empathy+json
 ```
 
-We ondersteunen de volgende Content-Types:
+Het `application/empathy+json` type heeft de voorkeur, maar de volgende types zijn ook mogelijk:
 
 ```
+application/empathy+json
+application/json
+application/ld+json
 text/n3
 application/n-triples
 application/hex+x-ndjson
@@ -32,7 +35,9 @@ text/turtle
 
 Je kunt in plaats daarvan ook een van de volgende extensies achter de URL zetten:
 
-`n3 nt nq ttl rdf`
+`.empjson` `.json` `.jsonld` `.n3` `.nt` `.nq` `.ttl` `.rdf`
+
+Let dat de extensie direct na het pad geplaatst moet worden, voor de query parameters en het fragment.
 
 Als je de data als RDF (linked data) gaat gebruiken en niet in als JSON, zal je een RDF parser moeten gebruiken. Lees [hier meer over RDF serializatie formaten](https://ontola.io/blog/rdf-serialization-formats/). Zoek een RDF library voor jouw taal uit en ga er mee aan de slag.
 

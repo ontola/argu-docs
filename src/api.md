@@ -15,16 +15,19 @@ All the information you see on Argu is communicated through the API. You can als
 
 The API works over HTTP. You can do that by using [curl](https://curl.haxx.se/) or [ldget](https://github.com/ontola/ldget/) in your terminal, or [fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) if you use Javascript. Search for ["HTTP &lt;programminglanguage&gt; library"](https://www.google.com/search?q=http+python+library) to find software to get you started.
 
-Then you can fetch entities in the format you want with [HTTP content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation). In the HTTP Accept header, set the content type (such as 'text/turtle'):
+Then you can fetch entities in the format you want with [HTTP content negotiation](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation). In the HTTP Accept header, set the content type (such as 'application/empathy+json'):
 
 ```HTTP
-GET https://argu.co/argu/u/joep HTTP/1.1
-Accept: text/turtle
+GET https://argu.co/argu/help HTTP/1.1
+Accept: application/empathy+json
 ```
 
-We support the following Content Types:
+The preferred type is `application/empathy+json`, but the following types are also possible:
 
 ```
+application/empathy+json
+application/json
+application/ld+json
 text/n3
 application/n-triples
 application/hex+x-ndjson
@@ -34,7 +37,9 @@ text/turtle
 
 You can also add one of the following extensions to the URL instead:
 
-`n3 nt nq ttl rdf`
+`.empjson` `.json` `.jsonld` `.n3` `.nt` `.nq` `.ttl` `.rdf`
+
+Note that the extension goes directly after the path, before the query parameters and the fragment.
 
 If you are going to use the data as RDF (linked data) and not as JSON, you will need to use an RDF parser. Read [more about RDF serialisation formats here](https://ontola.io/blog/rdf-serialization-formats/). Find an RDF library for your language and work with it.
 
