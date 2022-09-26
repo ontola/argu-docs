@@ -8,10 +8,31 @@ Je kunt een collectie openen door op de titel te klikken. Vervolgens kan je in d
 
 Met deze query parameters kan je veel instellen over hoe een collectie zal verschijnen:
 
-- **display** is weergave van de items. Mogelijke waarden zijn **grid** (losse kaarten in raster) of **table** (tabel).
+- **display** is weergave van de items. Mogelijke waarden zijn `grid` (losse kaarten in raster) of `table` (als rijen in een tabel).
 - **sort** is op welke eigenschap er wordt gesorteerd. Moet een URL zijn van de eigenschap.
-- **filter** is een key-value combinatie van een attribuut en zijn waarde
+- **filter[]** is een key-value combinatie van een veld en zijn waarde
 - **type** kan op **infinite**
-- **title**  veranderd de weergegeven naam van een collectie
+- **title** veranderd de weergegeven naam van een collectie
 
 Let er op dat waarden [URL encoded](https://www.urlencoder.org/) moeten worden meegegeven.
+
+## Filters
+
+Door een of meerdere `filter[]` parameters toe te voegen worden alleen items die overeenkomen getoond.
+
+Om alleen de vraagstukken van een `discussions` collectie te tonen, moet het veld
+`http://www.w3.org/1999/02/22-rdf-syntax-ns#type` en de waarde `https://argu.co/ns/core#Question` toegevoegd worden.
+
+```JavaScript
+const url = new URL('https://argu.nl/forum/discussions')
+const field = encodeURIComponent('http://www.w3.org/1999/02/22-rdf-syntax-ns#type')
+const value = encodeURIComponent('https://argu.co/ns/core#Question')
+url.searchParams.append('filter[]', `${field}=${value}`)
+url.toString()
+```
+
+Wat resulteerd in de volgende url:
+
+```
+https://argu.nl/forum/discussions?filter%5B%5D=http%253A%252F%252Fwww.w3.org%252F1999%252F02%252F22-rdf-syntax-ns%2523type%3Dhttps%253A%252F%252Fargu.co%252Fns%252Fcore%2523Question
+```

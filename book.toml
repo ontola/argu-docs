@@ -1,5 +1,8 @@
 [book]
-authors = ["Joep Meindertsma"]
+authors = [
+    "Joep Meindertsma",
+    "Thom van Kalkeren"
+]
 language = "en"
 multilingual = false
 src = "src"
