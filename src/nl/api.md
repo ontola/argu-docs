@@ -51,7 +51,11 @@ We doen ons uiterste best om de API zo stabiel mogelijk te houden. De API is ech
 
 ## Tokens
 
-De API is publiek beschikbaar. Als je echter wil inloggen, data wil schrijven of bij gesloten data wil komen, heb je een Token nodig. Neem contact op om een Token te krijgen.
+De API is publiek beschikbaar. Als je echter wil inloggen, data wil schrijven of bij gesloten data wil komen, heb je een Token nodig.
+
+Het Argu platform ondersteund de [OpenID Connect](https://openid.net/connect/)
+specificatie inclusief [dynamic client registration](https://openid.net/specs/openid-connect-registration-1_0.html).
+Details over de configuratie kunnen worden opgevraagd met het `/.well-known/openid-configuration.json` endpoint.
 
 ## Data dumps / exports
 

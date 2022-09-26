@@ -53,7 +53,11 @@ We do our best to keep the API as stable as possible. However, the API is subjec
 
 ## Tokens
 
-The API is publicly available. However, if you want to log in, write data or access closed data, you need a Token. Contact us to get a Token.
+The API is publicly available. However, if you want to log in, write data or access closed data, you need a Token.
+
+The Argu platform supports the [OpenID Connect](https://openid.net/connect/)
+specification including the [dynamic client registration](https://openid.net/specs/openid-connect-registration-1_0.html)
+extensions. Specifics on configuration can be requested on the `/.well-known/openid-configuration.json` endpoint.
 
 ## Data dumps / exports
 
